@@ -1,0 +1,14 @@
+C:\Users\Shahriar Rahi\source\repos\SIngle LinkedList\SIngle LinkedList\bin\Debug\net10.0\SIngle LinkedList.exe
+C:\Users\Shahriar Rahi\source\repos\SIngle LinkedList\SIngle LinkedList\bin\Debug\net10.0\SIngle LinkedList.deps.json
+C:\Users\Shahriar Rahi\source\repos\SIngle LinkedList\SIngle LinkedList\bin\Debug\net10.0\SIngle LinkedList.runtimeconfig.json
+C:\Users\Shahriar Rahi\source\repos\SIngle LinkedList\SIngle LinkedList\bin\Debug\net10.0\SIngle LinkedList.dll
+C:\Users\Shahriar Rahi\source\repos\SIngle LinkedList\SIngle LinkedList\bin\Debug\net10.0\SIngle LinkedList.pdb
+C:\Users\Shahriar Rahi\source\repos\SIngle LinkedList\SIngle LinkedList\obj\Debug\net10.0\SIngle LinkedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shahriar Rahi\source\repos\SIngle LinkedList\SIngle LinkedList\obj\Debug\net10.0\SIngle LinkedList.AssemblyInfoInputs.cache
+C:\Users\Shahriar Rahi\source\repos\SIngle LinkedList\SIngle LinkedList\obj\Debug\net10.0\SIngle LinkedList.AssemblyInfo.cs
+C:\Users\Shahriar Rahi\source\repos\SIngle LinkedList\SIngle LinkedList\obj\Debug\net10.0\SIngle LinkedList.csproj.CoreCompileInputs.cache
+C:\Users\Shahriar Rahi\source\repos\SIngle LinkedList\SIngle LinkedList\obj\Debug\net10.0\SIngle LinkedList.dll
+C:\Users\Shahriar Rahi\source\repos\SIngle LinkedList\SIngle LinkedList\obj\Debug\net10.0\refint\SIngle LinkedList.dll
+C:\Users\Shahriar Rahi\source\repos\SIngle LinkedList\SIngle LinkedList\obj\Debug\net10.0\SIngle LinkedList.pdb
+C:\Users\Shahriar Rahi\source\repos\SIngle LinkedList\SIngle LinkedList\obj\Debug\net10.0\SIngle LinkedList.genruntimeconfig.cache
+C:\Users\Shahriar Rahi\source\repos\SIngle LinkedList\SIngle LinkedList\obj\Debug\net10.0\ref\SIngle LinkedList.dll
