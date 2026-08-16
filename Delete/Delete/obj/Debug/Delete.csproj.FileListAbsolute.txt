@@ -1,0 +1,7 @@
+C:\Users\Shahriar Rahi\source\repos\Delete\Delete\bin\Debug\Delete.exe.config
+C:\Users\Shahriar Rahi\source\repos\Delete\Delete\bin\Debug\Delete.exe
+C:\Users\Shahriar Rahi\source\repos\Delete\Delete\bin\Debug\Delete.pdb
+C:\Users\Shahriar Rahi\source\repos\Delete\Delete\obj\Debug\Delete.csproj.AssemblyReference.cache
+C:\Users\Shahriar Rahi\source\repos\Delete\Delete\obj\Debug\Delete.csproj.CoreCompileInputs.cache
+C:\Users\Shahriar Rahi\source\repos\Delete\Delete\obj\Debug\Delete.exe
+C:\Users\Shahriar Rahi\source\repos\Delete\Delete\obj\Debug\Delete.pdb
